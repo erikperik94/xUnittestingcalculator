@@ -1,0 +1,13 @@
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.AssemblyInfo.cs
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.exe
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.deps.json
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.json
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.runtimeconfig.dev.json
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\bin\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.dll
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.pdb
+C:\Users\aggfe\Desktop\Assignment 3\CalculatorConsoleApp\obj\Debug\netcoreapp3.1\CalculatorConsoleApp.genruntimeconfig.cache
