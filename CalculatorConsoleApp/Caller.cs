@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace CalculatorConsoleApp
 {
@@ -36,6 +37,12 @@ namespace CalculatorConsoleApp
         public double Subtraction(double[] calculate)
         {
             double result = 0;
+            if(calculate[0] <= 0)
+            {
+                result = calculate[0];
+                calculate = calculate.Where((source, index) => index != 0).ToArray();
+            }
+            
             foreach (double item in calculate)
             {
                 result = result - item;

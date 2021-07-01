@@ -16,9 +16,17 @@ namespace CalculatorConsoleApp.Test
         [Fact]
         public void CalcSubTest()
         {
-            double[] myArr = { 1, 2, 3 };
+            double[] myArr = { 1, 2, 3  };
             var call = new Caller(myArr);
-            Assert.Equal(-6, call.Subtraction(myArr));
+            Assert.Equal( -6, call.Subtraction(myArr));
+            Assert.Equal(call.Subtraction(1, 2), call.Subtraction(1, 2));
+        }
+        [Fact]
+        public void CalcSubTestMinus()
+        {
+            double[] myArr = { -12, -3, 5, 24 };
+            var call = new Caller(myArr);
+            Assert.Equal(-38, call.Subtraction(myArr));
             Assert.Equal(call.Subtraction(1, 2), call.Subtraction(1, 2));
         }
         [Fact]

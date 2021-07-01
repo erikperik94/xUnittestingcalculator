@@ -21,8 +21,8 @@ namespace CalculatorConsoleApp
                 Console.WriteLine("By typing 3 you choose to Divide two numbers");
                 Console.WriteLine("By typing 4 you choose to Multiply two numbers ");
                 int userSelection = GetNumberFromUser("menu selection");
-                double number1 = 0;
-                double number2 = 0;
+                double number1;
+                double number2;
                 switch (userSelection)
                 {
                     case 1:
